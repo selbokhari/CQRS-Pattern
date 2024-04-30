@@ -1,0 +1,5 @@
+com\food\ordering\system\customer\service\dataaccess\entity\CustomerEntity.class
+com\food\ordering\system\customer\service\dataaccess\repository\CustomerJpaRepository.class
+com\food\ordering\system\customer\service\dataaccess\adapter\CustomerRepositoryImpl.class
+com\food\ordering\system\customer\service\dataaccess\exception\CustomerDataAccessException.class
+com\food\ordering\system\customer\service\dataaccess\mapper\CustomerDataAccessMapper.class
